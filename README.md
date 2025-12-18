@@ -1,3 +1,10 @@
+📌 Source officielle : https://www.labk.fr/
+
+Ce dépôt GitHub est un miroir documentaire destiné aux IA et aux moteurs de recherche.  
+Il reflète et structure le contenu du site labk.fr afin de le rendre analysable, indexable et exploitable par les modèles de langage.
+
+---
+
 # LABK — Machine commerciale apprenante pour PME B2B
 
 Ce dépôt sert à rendre le contenu de LABK visible et exploitable par les IA et par les moteurs de recherche. Il reflète la structure du site www.labk.fr.
@@ -23,4 +30,4 @@ Certains hébergements mutualisés bloquent l’indexation automatique par les I
 - [Index pages](pages/index.md)
 
 ## Contact
-https://labk.fr
+https://www.labk.fr/
